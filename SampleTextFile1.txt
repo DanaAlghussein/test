@@ -1,3 +1,0 @@
-this sample file 1
-
-git revert commit 2
