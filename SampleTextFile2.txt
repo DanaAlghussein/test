@@ -2,3 +2,4 @@ this is sample file 2
 
 git revert commit 1
 This is comaprison2 lecture
+this is stach in file2 
